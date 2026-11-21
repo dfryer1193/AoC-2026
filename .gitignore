@@ -1,0 +1,8 @@
+# Puzzle inputs are not to be redistributed: https://adventofcode.com/about
+input.txt
+*.input.txt
+
+# Session cookie
+.session
+
+/aoc
